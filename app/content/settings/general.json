@@ -2,9 +2,9 @@
   "title": "Home",
   "titleTemplate": "| Not Bot",
   "welcomeText": "# Somos NotBot Chile",
-  "logo": "/images/uploads/whatsapp-image-2021-11-29-at-11.07.08-am.jpeg",
-  "icon": "/images/uploads/logo.png",
+  "logo": "/images/uploads/logo.png",
+  "icon": "/images/uploads/whatsapp-image-2021-11-29-at-11.07.08-am.jpeg",
   "loadingColor": "#0b3765",
-  "seoDescription": "",
+  "seoDescription": "NotBot",
   "seoMetaImage": ""
 }
